@@ -1,0 +1,10 @@
+{
+  "ImageVertex": {
+    "type": "vertex",
+    "file": "image/image.vert"
+  },
+  "ImageFragment": {
+    "type": "fragment",
+    "file": "image/image.frag"
+  }
+}
